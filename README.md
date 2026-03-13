@@ -1,7 +1,7 @@
 # RPG Character Creator 
 It takes the character details and stats and presents them in a board with its's name and a full / empty dot line with the stats.
 
- ## Example output ren
+ ## Example output Paula
 ```
 Paula
 STR ●●●○○○○○○○
